@@ -1,0 +1,2483 @@
+{
+  "cse1": [
+    {
+      "subject": "1 Communicative English -HS8151",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics I -MA8151 ",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Engineering Physics -PH8151",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Engineering Chemistry -CY8151 ",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Prob Solving & Python programming -GE8151",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Engineering Graphics -GE8152",
+      "credit": "4"
+    },
+    {
+      "subject": "7 Problem Solving & Python Programming Lab -GE8161",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Physics & Chemistry Lab -BS8161 ",
+      "credit": "2"
+    }
+  ],
+
+  "cse2": [
+    {
+      "subject": "1 Technical English - HS8251",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics II - MA8251",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Physics for Information Science - PH8252",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Basic Electrical & Measurement Engi - BE8255",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Environmental Science & Engineering - GE8291",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Programming in C - CS8251",
+      "credit": "3"
+    },
+    {
+      "subject": "7 C Programming lab - CS8261",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Engineering Practices Lab - GE8261",
+      "credit": "2"
+    }
+  ],
+
+  "cse3": [
+    {
+      "subject": "1 Discrete Mathematics - MA8351",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Digital Principles & System Design - CS8351",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Data Structures - CS8391",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Object Oriented Programming - CS8392",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Communication Engineering - EC8395",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Data Structures Lab - CS8381",
+      "credit": "2"
+    },
+    {
+      "subject": "7 Object Oriented programming Lab - CS8383",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Digital Systems Lab - CS8382",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Interpersonal Skills Listening &Speaking - HS8381",
+      "credit": "1"
+    }
+  ],
+
+  "cse4": [
+    {
+      "subject": "1 Probability & Queueing Theory - MA8402",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Computer Architecture - CS8491",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Database Management Systems - CS8492",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Design and Analysis of Algorithms - CS8451",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Operating Systems - CS8493",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Software Engineering - CS8494",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Operating Systems Lab - CS8461",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Database Management Systems Lab - CS8481",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Advanced Reading & Writing - HS8461",
+      "credit": "1"
+    }
+  ],
+
+  "cse5": [
+    {
+      "subject": "1 Algebra & Number theory - MA8551",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Computer Networks - CS8591",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Microprocessors and Microcontrollers - EC8691",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Theory of Computation - CS8501",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Object Oriented Analysis & Design - CS8592",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Open Elective I",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Microprocessors and Microcontrollers Lab - EC8681",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Object Oriented Analysis & Design Lab - CS8582",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Networks Lab - CS8581",
+      "credit": "2"
+    }
+  ],
+
+  "cse6": [
+    {
+      "subject": "1 Internet Programming - CS8651",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Artificial Intelligence - CS8691",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Mobile Computing - CS8601",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Compiler Design - CS8602",
+      "credit": "4"
+    },
+    {
+      "subject": "5 Distributed Systems - CS8603",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Professional Elective I",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Internet Programming Lab - CS8661",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Mobile Application Development Lab - CS8662",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Mini Project - CS8611",
+      "credit": "1"
+    },
+    {
+      "subject": "10 Professional Communication - HS8581",
+      "credit": "1"
+    }
+  ],
+
+  "cse7": [
+    {
+      "subject": "1 Principles of Management - MG8591",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Cryptography & Network Security - CS8792",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Cloud Computing - CS8791",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Open Elective II",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Professional Elective II",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Professional Elective III",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Cloud Computing Lab - CS8711",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Security Lab - IT8761",
+      "credit": "2"
+    }
+  ],
+
+  "cse8": [
+    {
+      "subject": "1 Professional Elective IV - CS6801",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Professional Elective V",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Project Work - CS8811",
+      "credit": "10"
+    }
+  ],
+
+  "ece1": [
+    {
+      "subject": "1 Communicative English -HS8151",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics I -MA8151 ",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Engineering Physics -PH8151",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Engineering Chemistry -CY8151 ",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Prob Solving & Python programming -GE8151",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Engineering Graphics -GE8152",
+      "credit": "4"
+    },
+    {
+      "subject": "7 Problem Solving & Python Programming Lab -GE8161",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Physics & Chemistry Lab -BS8161 ",
+      "credit": "2"
+    }
+  ],
+
+  "ece2": [
+    {
+      "subject": "1 Technical English - HS8251",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics II - MA8251",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Physics for Electronics Engineering - PH8253",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Basic Electrical & Instrumentation Engi - BE8254",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Circuit Analysis - EC8251",
+      "credit": "4"
+    },
+    {
+      "subject": "6 Electronic Devices - EC8252",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Circuits & Devices Lab - EC8261",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Engineering Practices Lab - GE8261",
+      "credit": "1"
+    }
+  ],
+
+  "ece3": [
+    {
+      "subject": "1 Linear Algebra & Partial Differential Equations - MA8352",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Fundamentals of Data Structures in C - EC8393",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Electronic Circuits- I - EC8351",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Signals and Systems - EC8352",
+      "credit": "4"
+    },
+    {
+      "subject": "5 Digital Electronics - EC8392",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Control Systems Engineering - EC8391",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Fundamentals of Data Structures In C Lab - EC8381",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Analog and Digital Circuits Lab - EC8361",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Interpersonal SkillsListening &Speaking - HS8381",
+      "credit": "1"
+    }
+  ],
+
+  "ece4": [
+    {
+      "subject": "1 Probability & Random Processes - MA8451",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Electronic Circuits II - EC8452",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Communication Theory - EC8491",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Electromagnetic Fields - EC8451",
+      "credit": "4"
+    },
+    {
+      "subject": "5 Linear Integrated Circuits - EC8453",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Environmental Science & Engineering - GE8291",
+      "credit": "3"
+    },
+    {
+      "subject": "7 circuits design & simulation lab - EC8461",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Linear Integrated Circuit Lab - EC8462",
+      "credit": "2"
+    }
+  ],
+
+  "ece5": [
+    {
+      "subject": "1 Digital Communication - EC8501",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Discrete-Time Signal Processing - EC8553",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Computer Architecture & Organization - EC8552",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Communication Networks - EC8551",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Professional Elective I",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Open Elective I",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Digital Signal Processing lab - EC8562",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Communication System Lab - EC8561",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Communication Networks Lab - EC8563",
+      "credit": "2"
+    }
+  ],
+
+  "ece6": [
+    {
+      "subject": "1 Microprocessors and Microcontrollers - EC8691",
+      "credit": "3"
+    },
+    {
+      "subject": "2 VLSI Design - EC8095",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Wireless Communication - EC8652",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Principles of Management - MG8591",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Transmission Lines & RF Systems - EC8651",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Professional Elective II",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Microprocessors & Microcontrollers Laboratory - EC8681",
+      "credit": "2"
+    },
+    {
+      "subject": "8 VLSI Design Lab - EC8661",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Technical Seminar - EC8611",
+      "credit": "1"
+    },
+    {
+      "subject": "10 Professional Communication - EC8611",
+      "credit": "1"
+    }
+  ],
+
+  "ece7": [
+    {
+      "subject": "1 Antennas and Microwave Engineering - EC8701",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Optical Communication - EC8751",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Embedded & Real Tme Systems - EC8791",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Ad hoc and Wireless Sensor Networks - EC8702",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Professional Elective III",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Open Elective II",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Embedded Lab - EC8711",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Advanced Communication Lab - EC8761",
+      "credit": "2"
+    }
+  ],
+
+  "ece8": [
+    {
+      "subject": "1 Professional Elective IV",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Professional Elective V ",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Project Work - EC8811",
+      "credit": "10"
+    }
+  ],
+
+  "civil1": [
+    {
+      "subject": "1 Communicative English -HS8151",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics I -MA8151 ",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Engineering Physics -PH8151",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Engineering Chemistry -CY8151 ",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Prob Solving & Python programming -GE8151",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Engineering Graphics -GE8152",
+      "credit": "4"
+    },
+    {
+      "subject": "7 Problem Solving & Python Programming Lab -GE8161",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Physics & Chemistry Lab -BS8161 ",
+      "credit": "2"
+    }
+  ],
+
+  "civil2": [
+    {
+      "subject": "1 Technical English - HS8251",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics II - MA8251",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Physics for Civil Engineering - PH8201",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Basic Electrical & Electronic Engi - BE8251",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Environmental Science & Engineering - GE8291",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Engineering Mechanics - GE8292",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Engineering Practices Lab - GE8261",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Computer Aided Building Drawing - CE8211",
+      "credit": "2"
+    }
+  ],
+
+  "civil3": [
+    {
+      "subject": "1 Transforms & Partial Differential Equations - MA8353",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Strength of Materials I - CE8301",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Fluid Mechanics - CE8302",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Surveying - CE8351",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Construction Materials - CE8391",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Engineering Geology - CE8392",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Construction Materials Lab - CE8311",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Surveying Lab - CE8361",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Interpersonal Skills /Listening and Speaking - HS8381",
+      "credit": "1"
+    }
+  ],
+
+  "civil4": [
+    {
+      "subject": "1 Numerical Methods - MA8491",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Construction Techniques and Practices - CE8401",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Strength of Materials II - CE8402",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Applied Hydraulic Engineering - CE8403",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Concrete Technology - CE8404",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Soil Mechanics - CE8491",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Strength of Materials Lab - CE8481",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Hydraulic Engineering Lab - CE8461",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Advanced Reading & Writing - HS8461",
+      "credit": "1"
+    }
+  ],
+
+  "civil5": [
+    {
+      "subject": "1 Design of Reinforced Cement Concrete Elements - CE8501",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Structural Analysis I - CE8502",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Water Supply Engineering - EN8491",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Foundation Engineering - CE8591",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Professional Elective I ",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Open Elective I",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Soil Mechanics Lab - CE8511",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Water and Waste Water Analysis Lab - CE8512",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Survey Camp - CE8513",
+      "credit": "2"
+    }
+  ],
+
+  "civil6": [
+    {
+      "subject": "1 Design of Steel Structural Elements - CE8601",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Structural Analysis II - CE8602",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Irrigation Engineering - CE8603",
+      "credit": "3"
+    },
+    {
+      "subject": "4 HighWay Engineering - CE8604",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Wastewater Engineering - EN8592",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Professional Elective II",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Highway Engineering Lab - CE8611",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Irrigation & Environmental Engineering Drawing - CE8612",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Professional Communication - HS8581",
+      "credit": "1"
+    }
+  ],
+
+  "civil7": [
+    {
+      "subject": "1 Estimation, Costing & Valuation Engineering - CE8701",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Railways, Airports,Docks & Harbour Engineering - CE8702",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Structural Design& Drawing - CE8703",
+      "credit": "4"
+    },
+    {
+      "subject": "4 Professional Elective III",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Open Elective II",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Creative and Innovative Project - CE8711",
+      "credit": "2"
+    },
+    {
+      "subject": "7 Industrial Training - CE8712",
+      "credit": "2"
+    }
+  ],
+
+  "civil8": [
+    {
+      "subject": "1 Professional Elective IV",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Professional Elective V",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Project Work - CE8811",
+      "credit": "10"
+    }
+  ],
+
+  "eee1": [
+    {
+      "subject": "1 Communicative English -HS8151",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics I -MA8151 ",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Engineering Physics -PH8151",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Engineering Chemistry -CY8151 ",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Prob Solving & Python programming -GE8151",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Engineering Graphics -GE8152",
+      "credit": "4"
+    },
+    {
+      "subject": "7 Problem Solving & Python Programming Lab -GE8161",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Physics & Chemistry Lab -BS8161 ",
+      "credit": "2"
+    }
+  ],
+
+  "eee2": [
+    {
+      "subject": "1 Technical English - HS8251",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics II - MA8251",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Physics for Electronics Engineering - PH8253",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Basic Civil & Mechanical Engineering - BE8252",
+      "credit": "4"
+    },
+    {
+      "subject": "5 Environmental Science & Engineering - GE8291",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Circuit Theory - EE8251",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Engineering Practices Lab - GE8261",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Electric Circuits Lab - EE8261",
+      "credit": "2"
+    }
+  ],
+
+  "eee3": [
+    {
+      "subject": "1 Transforms & Partial Differential Equations - MA8351",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Digital Logic Circuits - EE8351",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Electromagnetic Theory - EE8391",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Electrical Machines - I - EE8301",
+      "credit": "3 "
+    },
+    {
+      "subject": "5 Electronic Devices & Circuits - EC8353",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Power Plan Engineering - ME8792",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Electronics Lab ",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Electrical Machines Lab I",
+      "credit": "2"
+    }
+  ],
+
+  "eee4": [
+    {
+      "subject": "1 Numerical Methods - MA8491",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Electrical Machines I - EE8401",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Transmission & Distribution - EE8402",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Measurements and Instrumentation - EE8403",
+      "credit": "3 "
+    },
+    {
+      "subject": "5 Linear Integrated Circuits & Applications - EE8451",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Control Systems - IC8451",
+      "credit": "4"
+    },
+    {
+      "subject": "7 Electrical Machines LabII - EE8411",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Linear & Digital Integrated Circuits Lab - EE8461",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Technical Seminar - EE8412",
+      "credit": "1"
+    }
+  ],
+
+  "eee5": [
+    {
+      "subject": "1 Power System Analysis - EE8501",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Microprocessors & Microcontrollers - EE8551",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Power Engineering - EE8552",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Digital Signal Processing - CS8392",
+      "credit": "3 "
+    },
+    {
+      "subject": "5 Object Oriented Programming",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Open Elective I",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Control & Instrumentation Lab - EE8511",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Professional Communication - HS8581",
+      "credit": "1"
+    },
+    {
+      "subject": "9 Object Oriented Programming Lab - CS8383",
+      "credit": "2"
+    }
+  ],
+
+  "eee6": [
+    {
+      "subject": "1 Solid State Drives - EE8601",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Protection and Switchgear - EE8602",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Embedded Systems - EE8691",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Professional Elective I",
+      "credit": "3 "
+    },
+    {
+      "subject": "5 Professional Elective II",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Power Electronics and Drives Lab - EE8661",
+      "credit": "2"
+    },
+    {
+      "subject": "7 Microproce & Micro controller Lab - EE8681",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Mini Project - EE8611",
+      "credit": "2"
+    }
+  ],
+
+  "eee7": [
+    {
+      "subject": "1 High Voltage Engineering - EE8701",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Power System Operation and Control - EE8702",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Renewable Energy Systems - EE8703",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Open Elective II ",
+      "credit": "3 "
+    },
+    {
+      "subject": "5 Professional Elective III",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Professional Elective IV",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Power System Simulation Lab - EE8711",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Renewable Energy Systems Lab - EE8712",
+      "credit": "2"
+    }
+  ],
+
+  "eee8": [
+    {
+      "subject": "1 Professional Elective V",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Professional Elective V",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Project Work - EE8811",
+      "credit": "10"
+    }
+  ],
+
+  "it1": [
+    {
+      "subject": "1 Communicative English -HS8151",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics I -MA8151 ",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Engineering Physics -PH8151",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Engineering Chemistry -CY8151 ",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Prob Solving & Python programming -GE8151",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Engineering Graphics -GE8152",
+      "credit": "4"
+    },
+    {
+      "subject": "7 Problem Solving & Python Programming Lab -GE8161",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Physics & Chemistry Lab -BS8161 ",
+      "credit": "2"
+    }
+  ],
+
+  "it2": [
+    {
+      "subject": "1 Technical English - HS8251",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics II - MA8251",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Physics for Information Science - PH8252",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Basic Electrical, electr& Measurement Engi - BE8255",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Information Technology Essentials - IT8201",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Programming in C - CS8251",
+      "credit": "3"
+    },
+    {
+      "subject": "7 C Programming lab - CS8261",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Engineering Practices Lab - GE8261",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Information tech essentials Lab - IT8211",
+      "credit": "1"
+    }
+  ],
+
+  "it3": [
+    {
+      "subject": "1 Discrete Mathematics - MA8351",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Digital Principles and System Design - CS8351",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Data Structures - CS8391",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Object Oriented Programming - CS8392",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Analog and Digital Communication - EC8394",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Data Structures Lab - CS8381",
+      "credit": "2"
+    },
+    {
+      "subject": "7 Object Oriented Programming Lab - CS8383",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Digital Systems Lab - CS8382",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Interpersonal Skills/Listening & Speaking - HS8381",
+      "credit": "1"
+    }
+  ],
+
+  "it4": [
+    {
+      "subject": "1 Probability and Statistics - MA8391",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Computer Architecture - CS8491",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Database Management Systems - CS8492",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Design and Analysis of Algorithms - CS8451",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Operating Systems - CS8493",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Environmental Science and Engineering - GE8291",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Database Management Systems Lab - CS8481",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Operating Systems Lab - CS8461",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Advanced Reading and Writing - HS8461",
+      "credit": "1"
+    }
+  ],
+
+  "it5": [
+    {
+      "subject": "1 Algebra and Number Theory - MA8551",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Computer Networks - CS8591",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Microprocessors and Microcontrollers - EC8691",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Web Technology - IT8501",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Software Engineering - CS8494",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Open Elective I",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Microprocessors and Microcontrollers Lab - EC8681",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Networks Lab - CS8581",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Web Technology Lab - IT8511",
+      "credit": "2"
+    }
+  ],
+
+  "it6": [
+    {
+      "subject": "1 Computational Intelligence - IT8601",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Object Oriented Analysis and Design - CS8592",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Mobile Communication - IT8602",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Big Data Analytics - CS8091",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Computer Graphics and Multimedia - CS8092",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Professional Elective I ",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Mobile Application Developmet Lab - CS8662",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Object Oriented Analysis and Design Lab - CS8582",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Mini Project - IT8611",
+      "credit": "1"
+    },
+    {
+      "subject": "10 Professional Communication - HS8581",
+      "credit": "1"
+    }
+  ],
+
+  "it7": [
+    {
+      "subject": "1 Principles of Management - MG8591",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Cryptography & Network Security - CS8792",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Cloud Computing - CS8791",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Open Elective II ",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Professional Elective II ",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Professional Elective III",
+      "credit": "3"
+    },
+    {
+      "subject": "7 FOSS and Cloud Computing Lab - IT8711",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Security Lab - IT8761",
+      "credit": "2"
+    }
+  ],
+
+  "it8": [
+    {
+      "subject": "1 Professional Elective IV",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Professional Elective V",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Project Work - IT8811",
+      "credit": "10"
+    }
+  ],
+
+  "mech1": [
+    {
+      "subject": "1 Communicative English -HS8151",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics I -MA8151 ",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Engineering Physics -PH8151",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Engineering Chemistry -CY8151 ",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Prob Solving & Python programming -GE8151",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Engineering Graphics -GE8152",
+      "credit": "4"
+    },
+    {
+      "subject": "7 Problem Solving & Python Programming Lab -GE8161",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Physics & Chemistry Lab -BS8161 ",
+      "credit": "2"
+    }
+  ],
+
+  "mech2": [
+    {
+      "subject": "1 Technical English - HS8251",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics II - MA8251",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Materials Science - PH8251",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Basic Electrical, Electronics & Instrumental Engineering - BE8253",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Environmental Science & Engineering - GE8291",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Engineering Mechanics - GE8292",
+      "credit": "4"
+    },
+    {
+      "subject": "7 Basic Electrical, Electronics & Instrumental Engineering lab - BE8261",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Engineering Practices Lab - GE8261",
+      "credit": "2"
+    }
+  ],
+
+  "mech3": [
+    {
+      "subject": "1 Transforms and Partial Differential Equations - MA8353",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Engineering Thermodynamics - ME8391",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Fluid Mechanics and Machinery - CE8394",
+      "credit": "4"
+    },
+    {
+      "subject": "4 Manufacturing Technology I - ME8351",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Electrical Drives and Controls - EE8353",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Manufacturing Technology Lab - ME8361",
+      "credit": "2"
+    },
+    {
+      "subject": "7 Computer Aided Machine Drawing - ME8381",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Electrical Engineering Lab - EE8361",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Interpersonal Skills / Listening & Speaking - HS8381",
+      "credit": "1"
+    }
+  ],
+
+  "mech4": [
+    {
+      "subject": "1 Statistics and Numerical Methods - MA8452",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Kinematics of Machinery - ME8492",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Manufacturing Technology II - ME8451",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Engineering Metallurgy - ME8491",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Strength of Materials for Mechanical Engineers - CE8395",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Thermal Engineering- I - ME8493",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Manufacturing Technology LabII - ME8462",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Strength of Materials & fluid MM Lab - CE8381",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Advanced Reading and Writing - HS8461",
+      "credit": "1"
+    }
+  ],
+
+  "mech5": [
+    {
+      "subject": "1 Thermal Engineering- II - ME8595",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Design of Machine Elements - ME8593",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Metrology and Measurements - ME8511",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Dynamics of Machines - ME8594",
+      "credit": "4"
+    },
+    {
+      "subject": "5 Open Elective I",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Kinematics and Dynamics Lab",
+      "credit": "2"
+    },
+    {
+      "subject": "7 Thermal Engineering Lab - ME8512",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Metrology and Measurements Lab - ME8513",
+      "credit": "2"
+    }
+  ],
+
+  "mech6": [
+    {
+      "subject": "1 Design of Transmission Systems - ME8651",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Computer Aided Design & Manufacturing - ME8691",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Heat and Mass Transfer - ME8693",
+      "credit": "4"
+    },
+    {
+      "subject": "4 Finite Element Analysis - ME8692",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Hydraulics and Pneumatics - ME8694",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Professional Elective I",
+      "credit": "3"
+    },
+    {
+      "subject": "7 CAD CAM Lab - ME8681",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Design & Fabrication Project - ME8682",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Professional Communication - HS8581",
+      "credit": "1"
+    }
+  ],
+
+  "mech7": [
+    {
+      "subject": "1 Power Plant Engineering - ME8792",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Process Planning and Cost Estimation - ME8793",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Heat and Mass Transfer - ME8693",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Open Elective - II",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Professional Elective II",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Professional Elective III",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Simulation & Analysis LAb - ME8711",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Mechatronics Lab - ME8781",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Technical Seminar - ME8712",
+      "credit": "1"
+    }
+  ],
+
+  "mech8": [
+    {
+      "subject": "1 Principles of Management - MG8591",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Professional Elective– IV",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Project Work ",
+      "credit": "10"
+    }
+  ],
+
+  "aero1": [
+    {
+      "subject": "1 Technical English - HS8251",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics II - MA8251",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Materials Science - PH8251",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Basic Electrical, Electronics & Instrumental Engineering - BE8253",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Environmental Science & Engineering - GE8291",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Engineering Mechanics - GE8292",
+      "credit": "4"
+    },
+    {
+      "subject": "7 Basic Electrical, Electronics & Instrumental Engineering lab - GE8261",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Engineering Practices Lab - GE8261",
+      "credit": "2"
+    }
+  ],"aero2": [
+    {
+      "subject": "1 Technical English - HS8251",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics II - MA8251",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Materials Science - PH8251",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Basic Electrical, Electronics & Instrumental Engineering - BE8253",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Environmental Science & Engineering - GE8291",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Engineering Mechanics - GE8292",
+      "credit": "4"
+    },
+    {
+      "subject": "7 Basic Electrical, Electronics & Instrumental Engineering lab - GE8261",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Engineering Practices Lab - GE8261",
+      "credit": "2"
+    }
+  ],
+
+  "aero3": [
+    {
+      "subject": "1 Transforms and Partial Differential Equations - MA6351",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Manufacturing Technology - ME6352",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Fluid Mechanics and Machinery - CE6451",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Aero Engineering Thermodynamics - AE6301",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Solid Mechanics - CE6452",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Elements of Aeronautics - AE6302",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Strength of Materials LabI - CE6315",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Fluid Mechanics & Machinery Lab - CE6461",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Thermodynamics Lab - AE6312",
+      "credit": "2"
+    },
+    {
+      "subject": "10 CAM & Manufacturing Lab",
+      "credit": "2"
+    }
+  ],
+
+  "aero4": [
+    {
+      "subject": "1 Numerical methods - MA6459",
+      "credit": "4"
+    },
+    {
+      "subject": "2 AerodynamicsI - AE6401",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Aircraft Systems & INstruments - AE6402",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Mechanics of Machines - AT6302",
+      "credit": "4"
+    },
+    {
+      "subject": "5 Aircraft Structures I - AE6403",
+      "credit": "4"
+    },
+    {
+      "subject": "6 PropulsionI - AE6404",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Aircraft Structures LabI - AE6411",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Aerodynamics Lab - AE6412",
+      "credit": "2"
+    },
+    {
+      "subject": "9 CAD & Aircraft component Drawing - AE6413",
+      "credit": "2"
+    }
+  ],
+
+  "aero5": [
+    {
+      "subject": "1 Flight Dynamics - AE6501",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Aircraft Structures II - AE6502",
+      "credit": "4"
+    },
+    {
+      "subject": "3 AerodynamicsII - GE6351",
+      "credit": "4"
+    },
+    {
+      "subject": "4 Propulsion II - AE6504",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Control Engineering - AE6505",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Environmental Science & Engineering",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Aircraft Structures Lab II - AE6511",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Propulsion Lab - AE6512",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Communication Lab - GE6563",
+      "credit": "2"
+    }
+  ],
+
+  "aero6": [
+    {
+      "subject": "1 Finite Element Methods - AE6601",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Vibration & Elements of Aeroelasticity - AE6602",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Principles of Management - MG6851",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Composite Materials & processes - AE6604",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Aircraft Materials & processes - AE6604",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Elective I",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Aero Engine & Airframe LAb - AE6611",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Aircraft Design ProjectI - AE6612",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Computer Aided simulation Lab - AE6613",
+      "credit": "2"
+    }
+  ],
+
+  "aero7": [
+    {
+      "subject": "1 Computer Fluid Dynamics - ME6014",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Avionics - AE6701",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Computer Fluid Dynamics - ME6014",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Experimental Stress Analysis - AE6702",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Elective II ",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Elective III",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Aircraft Design Project II - AE6711",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Aircraft systems Lab - AE6712",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Flight Integration systems & Control Lab - AE6713",
+      "credit": "2"
+    }
+  ],
+
+  "aero8": [
+    {
+      "subject": "1 Wind Tunnel Techniques - AE6801",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Elective IV",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Project WOrk - AE6811",
+      "credit": "3"
+    }
+  ],
+  
+  "auto1": [
+    {
+      "subject": "1 Communicative English -HS8151",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics I -MA8151 ",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Engineering Physics -PH8151",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Engineering Chemistry -CY8151 ",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Prob Solving & Python programming -GE8151",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Engineering Graphics -GE8152",
+      "credit": "4"
+    },
+    {
+      "subject": "7 Problem Solving & Python Programming Lab -GE8161",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Physics & Chemistry Lab -BS8161 ",
+      "credit": "2"
+    }
+  ],
+
+  "auto2": [
+    {
+      "subject": "1 Technical English - HS8251",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics II - MA8251",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Materials Science - PH8251",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Basic Electrical, Electronics & Instrumental Engineering - BE8253",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Environmental Science & Engineering - GE8291",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Engineering Mechanics - GE8292",
+      "credit": "4"
+    },
+    {
+      "subject": "7 Basic Electrical, Electronics & Instrumental Engineering lab - GE8261",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Engineering Practices Lab - GE8261",
+      "credit": "2"
+    }
+  ],
+
+  "auto3": [
+    {
+      "subject": "1 Transforms and Partial Differential Equations - MA8353",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Engineering Thermodynamics - ME839",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Strength of Materials for Mechanical Engineers - CE8395",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Spark Ignition Engines - AT8301",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Manufacturing Technology - ME8392",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Fluid Mechanics and Machinery - CE8394",
+      "credit": "4"
+    },
+    {
+      "subject": "7 Strength of Materials for Mechanical Lab - CE8381",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Computer Aided Machine Drawing - ME8381 ",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Interpersonal Skills/Listening & speaking - HS8381",
+      "credit": "1"
+    }
+  ],
+
+  "auto4": [
+    {
+      "subject": "1 Statistics and Numerical Methods - MA8452",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Compression Ignition Engines - AT8401",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Engineering Metallurgy - ME8491",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Electronics and Microprocessors - EC8396",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Automotive Chassis - AT8402",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Mechanics of Machines - PR8451",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Automotive Components Lab - PR6412",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Electronic & Microprocessors Lab - EC8382",
+      "credit": "2"
+    }
+  ],
+
+  "auto5": [
+    {
+      "subject": "1 Design of Machine Elements - ME8593",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Automotive Transmission - AT8501",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Automotive Electrical and Electronics Systems",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Vehicle Design Data Characteristics - AT8503",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Automotive Fuels and Lubricants - AT8504",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Open Elective - I",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Automotive Electrical and Electronics lab - AT8511",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Automotive Fuels and Lubricants lab - AT8512",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Professional Communication - HS8581",
+      "credit": "1"
+    }
+  ],
+
+  "auto6": [
+    {
+      "subject": "1 Total Quality Management - GE8077",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Automotive Engine Components Design - AT8601",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Automotive Chassis Components Design - AT8602",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Two & Three Wheelers - AT8603",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Vehicle Dynamics - AT8604",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Professional Elective I",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Computer Aided Engine & Chassis Design LAb - AT8611",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Two & Three Wheelers Lab - AT8612",
+      "credit": "2"
+    }
+  ],
+
+  "auto7": [
+    {
+      "subject": "1 Engine & vehicle Management System - AT8701",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Finite Element Analysis - ME8692",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Vehicle Maintenance - AT8702",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Open Elective - II",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Professional Elective II ",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Professional Elective III",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Engine performace & Emission Testing Lab - AT8711",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Vehicle Maintenance Lab - AT8712",
+      "credit": "2"
+    }
+  ],
+
+  "auto8": [
+    {
+      "subject": "1 Vehicle Body Engineering - AT8801",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Professional Elective IV",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Professional Elective V",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Project Work - AT8811",
+      "credit": "3"
+    }
+  ],
+
+  "bme1": [
+    {
+      "subject": "1 Communicative English -HS8151",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics I -MA8151 ",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Engineering Physics -PH8151",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Engineering Chemistry -CY8151 ",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Prob Solving & Python programming -GE8151",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Engineering Graphics -GE8152",
+      "credit": "4"
+    },
+    {
+      "subject": "7 Problem Solving & Python Programming Lab -GE8161",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Physics & Chemistry Lab -BS8161 ",
+      "credit": "2"
+    }
+  ],
+
+  "bme2": [
+    {
+      "subject": "1 Technical English - HS8251",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Mathematics II - MA8251",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Physics for Electronics Engineering - PH8253",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Engineering Mechanics for Bio Medical Engineers - BM8251",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Fundamentals of Bio Chemistry - BM8201",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Circuit Analysis - EC8251",
+      "credit": "4"
+    },
+    {
+      "subject": "7 Basic Electrical, Electronics & Instrumental Engineering lab - GE8261",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Bio Chemistry Lab - BM8211",
+      "credit": "2"
+    }
+  ],
+
+  "bme3": [
+    {
+      "subject": "1 Linear Algebra & Partial Differential Equations - MA8352",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Signals and Systems - EC8352",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Anatomy and Human Physiology - BM8351",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Sensors and Measurements - BM8301",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Electron Devices and Circuits - EC8353",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Pathology and Microbiology - BM8302",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Pathology and Microbiology Lab - BM8311",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Devices and Circuits Lab- BM8312 ",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Human Physiology Lab - BM8313",
+      "credit": "1"
+    }
+  ],
+
+  "bme4": [
+    {
+      "subject": "1 Probability and Statistics - MA8391",
+      "credit": "4"
+    },
+    {
+      "subject": "2 Medical Physics - BM8401",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Basics of Electrical Engineering - EE8452",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Linear Integrated Circuits - EC8453",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Fundamentals of Data Structures in C - EC8393",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Digital Electronics - PR8451",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Fundamentals of Data Structures in C Lab - EC8381",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Integrated Circuits Lab - BM8411",
+      "credit": "2"
+    }
+  ],
+
+  "bme5": [
+    {
+      "subject": "1 Analog and Digital Communication - EC8394",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Bio Control Systems - BM8501",
+      "credit": "4"
+    },
+    {
+      "subject": "3 Bio Medical Instrumentation - BM8502",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Discrete Time-Signal Processing - EC8533",
+      "credit": "4"
+    },
+    {
+      "subject": "5 Professional Elective - I",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Open Elective - I",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Digital Signal Processing lab - EC8562",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Bio Medical Instrumentation lab - BM8511",
+      "credit": "2"
+    },
+    {
+      "subject": "9 Interpersonal Skills/Listening & Speaking - HS8381",
+      "credit": "1"
+    }
+  ],
+
+  "bme6": [
+    {
+      "subject": "1 Microprocessors and Microcontrollers - EC8691",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Diagnostic and Therapautic Equipment - BM8601",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Bio Mechanics - BM8651",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Environmental Science & Engineering - GE8291",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Hospital Management - MD8091",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Professional Elective II",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Microprocessors and Microcontrollers Lab - EC8681",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Diagnostic and Therapautic Equipment Lab- BM8611",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Mini Project - BM8612",
+      "credit": "1"
+    }
+  ],
+
+  "bme7": [
+    {
+      "subject": "1 Diagnostic and Therapautic Equipment II - BM8701",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Digital Image Processing - EC8093",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Radiological Equipments - BM8702",
+      "credit": "3"
+    },
+    {
+      "subject": "4 Rehabilitation Engineering - BM8703",
+      "credit": "3"
+    },
+    {
+      "subject": "5 Professional Elective III ",
+      "credit": "3"
+    },
+    {
+      "subject": "6 Open Elective - II",
+      "credit": "3"
+    },
+    {
+      "subject": "7 Digital Image Processing Lab - EC8762",
+      "credit": "2"
+    },
+    {
+      "subject": "8 Hospital Training - MD8751",
+      "credit": "2"
+    }
+  ],
+
+  "bme8": [
+    {
+      "subject": "1 Professional Elective IV",
+      "credit": "3"
+    },
+    {
+      "subject": "2 Professional Elective V",
+      "credit": "3"
+    },
+    {
+      "subject": "3 Project Work - BM8811",
+      "credit": "10"
+    }
+  ]
+}
