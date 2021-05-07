@@ -69,10 +69,13 @@ body {
     grid-template-columns: 20vw 35vw 12vw;
     grid-gap: 3vh;
     padding-top: 3vh;
-    color: white;
+    color: rgb(110, 62, 182);
     visibility: hidden;
     margin-left: 12vw;
-    background-color: rgb(110, 62, 182);
+    border: rgb(110, 62, 182);
+    border-style: solid;
+	border-width: 0.2vmin;
+    background-color: rgb(255, 255, 255);
     border-radius: 1.1vh;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
@@ -81,6 +84,11 @@ body {
     height: 3vh;
     text-indent: 0.5vw;
     border-radius: 1.1vh;
+    color: rgb(110, 62, 182);
+    border: rgb(110, 62, 182);
+    outline: none;
+    border-style: solid;
+	border-width: 0.2vmin;
 }
 #calculate, #submit {
     float: right;
